@@ -1,0 +1,2 @@
+# WORLD-CUP-2026-SIMULATOR
+2026 FIFA World Cup Predictor
